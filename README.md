@@ -6,9 +6,9 @@ A project to animate your login manager
 
 ### 1 Installation
 
-Choose from: 
+Choose: 
 
-#### - Plasma KDE
+#### - From Plasma KDE
 
 Install from Plasma SystemSettings: 
 
@@ -16,7 +16,7 @@ Install from Plasma SystemSettings:
 [ SystemSettings > Startup and Shutdown > LoginScreen(SDDM) > GetNew > Search: ittu > Install ]
 ```
 
-#### - Download 
+#### - Or download 
 
 Download [here](https://www.opendesktop.org/p/1303587/) the file *ittu.tar.gz*  and run from your terminal
 
