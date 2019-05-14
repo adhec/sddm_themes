@@ -59,9 +59,7 @@ avatarColor="#dcdcdc"    #background of animations
 factorSizeAvatar=0.75    #size of avatars
 ```
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/1-Lv6z_Do0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/gZd6tnqD3u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Test our Look & Feel
 
