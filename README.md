@@ -4,11 +4,11 @@ A project to animate your login manager
 
 <iframe width="753" height="380" src="https://www.youtube.com/embed/1-Lv6z_Do0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay="1"></iframe>
 
-### Installation
+### 1 Installation
 
 Choose from: 
 
-#### Plasma KDE
+#### - Plasma KDE
 
 Install from Plasma SystemSettings: 
 
@@ -16,7 +16,7 @@ Install from Plasma SystemSettings:
 [ SystemSettings > Startup and Shutdown > LoginScreen(SDDM) > GetNew > Search: ittu > Install ]
 ```
 
-#### or Download 
+#### - Download 
 
 Download [here](https://www.opendesktop.org/p/1303587/) the file *ittu.tar.gz*  and run from your terminal
 
@@ -24,13 +24,13 @@ Download [here](https://www.opendesktop.org/p/1303587/) the file *ittu.tar.gz*  
 sudo tar -xvf ~/Downloads/ittu.tar.gz -C /usr/share/sddm/themes
 ```
 
-### Usage
+### 2 Usage
 
 Select the theme from the SystemSettings of plasma KDE
 
 SystemSettings  ~> Startup and Shutdown ~> select *ittu* and click on Apply button
 
-### Change animation GIF
+### 2.1 Change animation GIF
 
 Search, select (or place) your favorite animation (square shape) in:
 
@@ -48,7 +48,7 @@ sudo cp 7.gif $(whoami).gif
 
 * All animations from *giphy*
 
-### Basic configurations
+### 3 Basic configurations
 
 Edit the file  **/usr/share/sddm/themes/ittu/theme.conf** 
 
@@ -68,7 +68,7 @@ factorSizeAvatar=0.75    #size of avatars
 <iframe width="753" height="380" src="https://www.youtube.com/embed/gZd6tnqD3u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Test our Look & Feel
+## 4 Test our Look & Feel
 
 Neve (snow)  look & feel for Plasma
 
@@ -80,7 +80,7 @@ Neve (snow)  look & feel for Plasma
 or Download [here](https://www.pling.com/p/1304251/)
 
 
-### Coffee
+### - Coffee
 
 Thanks for all the support :coffee: . If you liked my job please Pling <img src="https://www.opendesktop.org/images/system/pling-btn-hover.png" alt="pling" style="width:28px;" /> the project or/and rate  (above in the + symbol) or/and make a donation [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url) [<img src="https://git.opendesktop.org/adhe/oie/raw/master/images/donate.png"  style="width:72px;">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url) 
 
