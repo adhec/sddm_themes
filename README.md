@@ -46,9 +46,12 @@ cd /usr/share/sddm/themes/ittu/components/artwork/gifs/
 sudo cp 7.gif $(whoami).gif
 ```
 
+<iframe width="753" height="380" src="https://www.youtube.com/embed/gZd6tnqD3u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 * All animations from *giphy*
 
-### 3 Basic configurations
+### 3 Customization
 
 Edit the file  **/usr/share/sddm/themes/ittu/theme.conf** 
 
@@ -63,10 +66,6 @@ avatarColor="#dcdcdc"    #background of animations
 
 factorSizeAvatar=0.75    #size of avatars
 ```
-
-
-<iframe width="753" height="380" src="https://www.youtube.com/embed/gZd6tnqD3u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## 4 Test our Look & Feel
 
