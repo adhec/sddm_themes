@@ -38,7 +38,7 @@ Search, select (or place) your favorite animation (square shape) in:
 /usr/share/sddm/themes/ittu/components/artwork/gifs/
 ```
 
-the gif for your user is **$USER.gif** where $USER is your user name, 
+the gif for your user is **USER.gif** where USER is your user name, 
 
 ```bash
 #Example to use animation 7.gif  
