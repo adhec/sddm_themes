@@ -4,8 +4,11 @@ A project to animate your login manager
 
 <iframe width="753" height="380" src="https://www.youtube.com/embed/1y0nYQPsREo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay="1"></iframe>
 
+**Ittu and Ittu_bottom themes**
 
-[![screen](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/img.png)](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/img_300.png)
+![screen](https://raw.githubusercontent.com/adhec/sddm_themes/master/ittu/images/themes00.png)
+
+
 
 
 ### 1 Installation
@@ -35,8 +38,6 @@ Select the theme from the SystemSettings of plasma KDE
 SystemSettings  ~> Startup and Shutdown ~> select *ittu* and click on Apply button
 
 ### 2.1 Change animation GIF
-
-<iframe width="753" height="380" src="https://www.youtube.com/embed/1-Lv6z_Do0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay="1"></iframe>
 
 Search, select (or place) your favorite animation (square shape) in:
 
