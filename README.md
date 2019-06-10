@@ -44,7 +44,7 @@ Search, select (or place) your favorite animation (square shape) in:
 /usr/share/sddm/themes/ittu/components/artwork/gifs/
 ```
 
-the gif for your user is **$USER.gif** where $USER is your user name, 
+the gif for your user is **USER.gif** where USER is your user name, 
 
 ```bash
 #Example to use animation 7.gif  
@@ -52,9 +52,12 @@ cd /usr/share/sddm/themes/ittu/components/artwork/gifs/
 sudo cp 7.gif $(whoami).gif
 ```
 
+<iframe width="753" height="380" src="https://www.youtube.com/embed/gZd6tnqD3u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 * All animations from *giphy*
 
-### 3 Basic configurations
+### 3 Customization
 
 Edit the file  **/usr/share/sddm/themes/ittu/theme.conf** 
 
@@ -70,10 +73,13 @@ avatarColor="#dcdcdc"    #background of animations
 factorSizeAvatar=0.75    #size of avatars
 ```
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 3d9f0ad470f0b610001e6a6c1b6d80e78086e644
 ## 4 Test our Look & Feel
 
 Neve (snow)  look & feel for Plasma
