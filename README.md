@@ -17,7 +17,7 @@ Choose:
 
 #### - From Plasma KDE
 
-Install from Plasma SystemSettings: 
+Install from Plasma SystemSettings: select ittu or ittu_bottom
 
 ```bash
 [ SystemSettings > Startup and Shutdown > LoginScreen(SDDM) > GetNew > Search: ittu > Install ]
@@ -30,6 +30,7 @@ Download [here](https://www.opendesktop.org/p/1303587/) the file *ittu.tar.gz*  
 ```bash
 sudo tar -xvf ~/Downloads/ittu.tar.gz -C /usr/share/sddm/themes
 ```
+for [Ittu_bottom](https://www.pling.com/p/1309044/)  replace **ittu.tar.gz** by **ittu_bottom.tar.gz**
 
 ### 2 Usage
 
@@ -55,7 +56,6 @@ sudo cp 7.gif $(whoami).gif
 
 <iframe width="753" height="380" src="https://www.youtube.com/embed/gZd6tnqD3u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 * All animations from *giphy*
 
 ### 3 Customization
@@ -74,13 +74,6 @@ avatarColor="#dcdcdc"    #background of animations
 factorSizeAvatar=0.75    #size of avatars
 ```
 
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> 3d9f0ad470f0b610001e6a6c1b6d80e78086e644
 ## 4 Test our Look & Feel
 
 Neve (snow)  look & feel for Plasma
@@ -99,10 +92,9 @@ Thanks for all the support :coffee: . If you liked my job please Pling <img src=
 
 [![screen](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/img.png)](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/img_300.png)
 
-
-
 Have fun ;)
 
-## Version 1.0
+## old version
 
 <iframe width="753" height="380" src="https://www.youtube.com/embed/gZd6tnqD3u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
