@@ -4,14 +4,17 @@ A project to animate your login manager
 
 <iframe width="753" height="380" src="https://www.youtube.com/embed/1y0nYQPsREo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay="1"></iframe>
 
-**Ittu and Ittu_bottom themes**
+### Ittu https://www.opendesktop.org/p/1303587/
 
-![screen](https://raw.githubusercontent.com/adhec/sddm_themes/master/ittu/images/themes00.png)
+[![screen](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_bottom_cut.jpg)](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_bottom.jpg)
 
+### Ittu_bottom https://www.opendesktop.org/p/1309044/
 
+[![screen](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_cut.jpg)](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu.jpg)
 
+### 1 Installation, for another theme replace ittu by the name of theme
 
-### 1 Installation
+<span style="color:red"> **- Themes **  </span>  **ittu, ittu_c, ittu_bottom, ittu_bottom_c**
 
 Choose: 
 
