@@ -4,11 +4,11 @@ A project to animate your login manager
 
 <iframe width="753" height="380" src="https://www.youtube.com/embed/1y0nYQPsREo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay="1"></iframe>
 
-### Ittu https://www.opendesktop.org/p/1303587/
+### Ittu ---->  [https://www.opendesktop.org/p/1303587/](https://www.opendesktop.org/p/1303587/)
 
 [![screen](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_bottom_cut.jpg)](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_bottom.jpg)
 
-### Ittu_bottom https://www.opendesktop.org/p/1309044/
+### Ittu_bottom ---->  [https://www.opendesktop.org/p/1309044/](https://www.opendesktop.org/p/1309044/)
 
 [![screen](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_cut.jpg)](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu.jpg)
 
