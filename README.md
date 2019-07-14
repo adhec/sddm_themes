@@ -4,13 +4,37 @@ A project to animate your login manager
 
 <iframe width="753" height="380" src="https://www.youtube.com/embed/1y0nYQPsREo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen autoplay="1"></iframe>
 
-### Ittu ---->  [https://www.opendesktop.org/p/1303587/](https://www.opendesktop.org/p/1303587/)
+### Basic configurations
 
-[![screen](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_bottom_cut.jpg)](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_bottom.jpg)
+Edit the file  **/usr/share/sddm/themes/ittu/theme.conf** 
 
-### Ittu_bottom ---->  [https://www.opendesktop.org/p/1309044/](https://www.opendesktop.org/p/1309044/)
+```bash
+background=components/artwork/background.jpg  #path to file 
+blur=true                #true or false, enable blur effect
+blurRadius=100           #from 0 to 100, radius of blur 
+
+shape=circle             #circle or rectangle, shape of avatars
+avatarTransparent=false  #true or false, draw background 
+avatarColor="#f5f5f5"    #background of animations
+
+factorSizeAvatar=0.8     #size of avatars
+```
+For another theme replace ittu by the name of theme
+<span style="color:red"> **- Themes **  </span>  **ittu, ittu_c, ittu_bottom, ittu_bottom_c**
+
+---
+
+### Ittu 
+
+[https://www.opendesktop.org/p/1303587/](https://www.opendesktop.org/p/1303587/)
 
 [![screen](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_cut.jpg)](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu.jpg)
+
+### Ittu_bottom 
+
+[https://www.opendesktop.org/p/1309044/](https://www.opendesktop.org/p/1309044/)
+
+[![screen](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_bottom_cut.jpg)](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/ittu_bottom.jpg)
 
 ### 1 Installation, for another theme replace ittu by the name of theme
 
@@ -43,60 +67,33 @@ SystemSettings  ~> Startup and Shutdown ~> select *ittu* and click on Apply butt
 
 ### 2.1 Change animation GIF
 
-Search, select (or place) your favorite animation (square shape) in:
+Use the dolphin [menu service](https://www.pling.com/p/1313714/)
 
 ```bash
-/usr/share/sddm/themes/ittu/components/artwork/gifs/
+#Installation
+Dolphin > Menu Settings > Configure Dolphin > 
+... Services > Search "menu set" > Install "Menu set Login Manager gif" 
+
+# Use
+Right click on gif > Action > Set as Login SDDM gif
 ```
 
-the gif for your user is **USER.gif** where USER is your user name, 
-
-```bash
-#Example to use animation 7.gif  
-cd /usr/share/sddm/themes/ittu/components/artwork/gifs/
-sudo cp 7.gif $(whoami).gif
-```
-
-
-
-<iframe width="753" height="300" src="https://www.youtube.com/embed/gZd6tnqD3u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![menu service](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/menu.png)
 
 * All animations from *giphy*
 
-### 3 Customization
+---
 
-Edit the file  **/usr/share/sddm/themes/ittu/theme.conf** 
 
-```bash
-background=components/artwork/background.jpg  #path to file 
-blur=true                #true or false, enable blur effect
-blurRadius=30            #from 0 to 100, radius of blur 
+### Test our Look & Feel for lock screen and more animations
 
-shape=circle             #circle or rectangle, shape of avatars
-avatarTransparent=false  #true or false, draw background 
-avatarColor="#dcdcdc"    #background of animations
+[PearLight](https://www.pling.com/p/1313727/) and [PearDark](https://www.pling.com/p/1313728/)
 
-factorSizeAvatar=0.75    #size of avatars
-```
+Video and more details in https://adhec.github.io/plasma_tweaks/
 
-## 4 Test our Look & Feel
+[![pear](https://git.opendesktop.org/adhe/ittusddm/raw/master/images/pear.png)](https://adhec.github.io/plasma_tweaks/)
 
-Neve (snow)  look & feel for Plasma
 
-<span style="color:red"> **- Look & Feel **  </span> install from 
-[ SystemSettings > Look and Feel > Get New Theme > Search "Neve" > Install  ]
+### Coffee
 
-# Coffee
-
-Thanks for all the support :coffee: . If you liked my job please rate the project in opendesktop  (above in the + symbol). Or better yet
-
-send me a coffee :)  from [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url)
-
-[<img src="https://git.opendesktop.org/adhe/oie/raw/master/images/donate.png"  style="width:150px;">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url) 
-
-Have fun ;)
-
-## old version
-
-<iframe width="300" height="200" src="https://www.youtube.com/embed/gZd6tnqD3u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+Thanks for all the support :coffee: . If you liked my job please Pling <img src="https://www.opendesktop.org/images/system/pling-btn-hover.png" alt="pling" style="width:28px;" /> the project or/and rate  (above in the + symbol) or/and make a donation [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url) [<img src="https://git.opendesktop.org/adhe/oie/raw/master/images/donate.png"  style="width:72px;">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V9Q8MK9CKSQW8&source=url) Have fun ;)
